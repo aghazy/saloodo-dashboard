@@ -6,7 +6,7 @@ This repository is part of a larger solution, with the backend serving as its co
 
 ## Project Hosting
 
-The frontend of this project is hosted [here](link_to_hosted_project).
+The frontend of this project is hosted [here](https://main.d7wivcv3ci0b3.amplifyapp.com).
 
 ## Local Setup
 

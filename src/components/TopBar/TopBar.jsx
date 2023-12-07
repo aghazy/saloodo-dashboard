@@ -11,7 +11,6 @@ import MenuItem from '@mui/material/MenuItem';
 import PersonIcon from '@mui/icons-material/Person';
 
 import { ReactComponent as Logo } from './assets/logo.svg';
-import './TopBar.css';
 
 function TopBar({ signOut }) {
   const [anchorElUser, setAnchorElUser] = React.useState(null);
